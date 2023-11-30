@@ -1,2 +1,2 @@
 # Advent-Of-Code-2023
-Code for the Advent of Code 2023 
+Code for the Advent of Code 2023. These algorithms are coded in Python and should be able to run without any additional libraries. The Advent of Code questions can be found on https://adventofcode.com, and the answers to each day can be found in the folder corresponding to its question (day) number.
